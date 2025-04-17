@@ -8,7 +8,7 @@ public class jogo {
         Scanner scanner = new Scanner(System.in);
        
         int numeroSecreto = random.nextInt(50); 
-        int tentativa = 0;
+    
 
         int chut=0; 
 
